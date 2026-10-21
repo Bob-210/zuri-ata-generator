@@ -1,0 +1,9 @@
+{
+  "name": "zuri-ata-generator",
+  "version": "1.0.0",
+  "description": "Gerador de atas em DOCX para o Escritório de Projetos Zuri",
+  "main": "index.js",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
